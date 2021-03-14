@@ -1,0 +1,7 @@
+D:\c#HW\Calculate1\Calculate1\bin\Debug\Calculate1.exe.config
+D:\c#HW\Calculate1\Calculate1\bin\Debug\Calculate1.exe
+D:\c#HW\Calculate1\Calculate1\bin\Debug\Calculate1.pdb
+D:\c#HW\Calculate1\Calculate1\obj\Debug\Calculate1.csprojAssemblyReference.cache
+D:\c#HW\Calculate1\Calculate1\obj\Debug\Calculate1.csproj.CoreCompileInputs.cache
+D:\c#HW\Calculate1\Calculate1\obj\Debug\Calculate1.exe
+D:\c#HW\Calculate1\Calculate1\obj\Debug\Calculate1.pdb

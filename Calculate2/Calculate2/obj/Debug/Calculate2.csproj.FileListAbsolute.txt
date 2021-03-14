@@ -1,0 +1,10 @@
+D:\c#HW\Calculate2\Calculate2\bin\Debug\Calculate2.exe.config
+D:\c#HW\Calculate2\Calculate2\bin\Debug\Calculate2.exe
+D:\c#HW\Calculate2\Calculate2\bin\Debug\Calculate2.pdb
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.csprojAssemblyReference.cache
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.Form1.resources
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.Properties.Resources.resources
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.csproj.GenerateResource.cache
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.csproj.CoreCompileInputs.cache
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.exe
+D:\c#HW\Calculate2\Calculate2\obj\Debug\Calculate2.pdb
