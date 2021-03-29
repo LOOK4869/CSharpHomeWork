@@ -1,0 +1,7 @@
+C:\Users\LOOK\source\repos\AiShi\AiShi\bin\Debug\AiShi.exe.config
+C:\Users\LOOK\source\repos\AiShi\AiShi\bin\Debug\AiShi.exe
+C:\Users\LOOK\source\repos\AiShi\AiShi\bin\Debug\AiShi.pdb
+C:\Users\LOOK\source\repos\AiShi\AiShi\obj\Debug\AiShi.csprojAssemblyReference.cache
+C:\Users\LOOK\source\repos\AiShi\AiShi\obj\Debug\AiShi.csproj.CoreCompileInputs.cache
+C:\Users\LOOK\source\repos\AiShi\AiShi\obj\Debug\AiShi.exe
+C:\Users\LOOK\source\repos\AiShi\AiShi\obj\Debug\AiShi.pdb

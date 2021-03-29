@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoArea", "GeoArea\GeoArea.csproj", "{5381C972-F336-451A-B823-FDE18C0D8FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5381C972-F336-451A-B823-FDE18C0D8FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5381C972-F336-451A-B823-FDE18C0D8FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5381C972-F336-451A-B823-FDE18C0D8FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5381C972-F336-451A-B823-FDE18C0D8FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B09230-0DFD-42E7-A986-B6C505418ACD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\obj\Debug\GeoArea.csprojAssemblyReference.cache
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\obj\Debug\GeoArea.csproj.CoreCompileInputs.cache
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\bin\Debug\GeoArea.exe.config
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\bin\Debug\GeoArea.exe
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\bin\Debug\GeoArea.pdb
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\obj\Debug\GeoArea.exe
+C:\Users\LOOK\source\repos\GeoArea\GeoArea\obj\Debug\GeoArea.pdb

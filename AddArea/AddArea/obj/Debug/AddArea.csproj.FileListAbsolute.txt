@@ -1,0 +1,7 @@
+C:\Users\LOOK\source\repos\AddArea\AddArea\bin\Debug\AddArea.exe.config
+C:\Users\LOOK\source\repos\AddArea\AddArea\bin\Debug\AddArea.exe
+C:\Users\LOOK\source\repos\AddArea\AddArea\bin\Debug\AddArea.pdb
+C:\Users\LOOK\source\repos\AddArea\AddArea\obj\Debug\AddArea.csprojAssemblyReference.cache
+C:\Users\LOOK\source\repos\AddArea\AddArea\obj\Debug\AddArea.csproj.CoreCompileInputs.cache
+C:\Users\LOOK\source\repos\AddArea\AddArea\obj\Debug\AddArea.exe
+C:\Users\LOOK\source\repos\AddArea\AddArea\obj\Debug\AddArea.pdb
