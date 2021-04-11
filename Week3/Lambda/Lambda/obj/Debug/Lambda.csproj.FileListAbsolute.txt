@@ -1,0 +1,7 @@
+D:\c#HW\Week3\Lambda\Lambda\bin\Debug\Lambda.exe.config
+D:\c#HW\Week3\Lambda\Lambda\bin\Debug\Lambda.exe
+D:\c#HW\Week3\Lambda\Lambda\bin\Debug\Lambda.pdb
+D:\c#HW\Week3\Lambda\Lambda\obj\Debug\Lambda.csprojAssemblyReference.cache
+D:\c#HW\Week3\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+D:\c#HW\Week3\Lambda\Lambda\obj\Debug\Lambda.exe
+D:\c#HW\Week3\Lambda\Lambda\obj\Debug\Lambda.pdb

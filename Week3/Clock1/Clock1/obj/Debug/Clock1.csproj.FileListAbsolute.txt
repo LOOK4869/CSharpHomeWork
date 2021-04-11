@@ -1,0 +1,10 @@
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.csprojAssemblyReference.cache
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.Form1.resources
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.Properties.Resources.resources
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.csproj.GenerateResource.cache
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.csproj.CoreCompileInputs.cache
+D:\c#HW\Week3\Clock1\Clock1\bin\Debug\Clock1.exe.config
+D:\c#HW\Week3\Clock1\Clock1\bin\Debug\Clock1.exe
+D:\c#HW\Week3\Clock1\Clock1\bin\Debug\Clock1.pdb
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.exe
+D:\c#HW\Week3\Clock1\Clock1\obj\Debug\Clock1.pdb
