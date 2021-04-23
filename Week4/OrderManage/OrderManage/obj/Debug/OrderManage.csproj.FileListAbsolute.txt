@@ -1,0 +1,7 @@
+D:\c#HW\week4\OrderManage\OrderManage\obj\Debug\OrderManage.csprojAssemblyReference.cache
+D:\c#HW\week4\OrderManage\OrderManage\obj\Debug\OrderManage.csproj.CoreCompileInputs.cache
+D:\c#HW\week4\OrderManage\OrderManage\bin\Debug\OrderManage.exe.config
+D:\c#HW\week4\OrderManage\OrderManage\bin\Debug\OrderManage.exe
+D:\c#HW\week4\OrderManage\OrderManage\bin\Debug\OrderManage.pdb
+D:\c#HW\week4\OrderManage\OrderManage\obj\Debug\OrderManage.exe
+D:\c#HW\week4\OrderManage\OrderManage\obj\Debug\OrderManage.pdb
