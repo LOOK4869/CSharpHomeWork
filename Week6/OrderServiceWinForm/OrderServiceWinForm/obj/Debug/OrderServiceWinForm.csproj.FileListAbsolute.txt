@@ -1,0 +1,12 @@
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\bin\Debug\OrderServiceWinForm.exe.config
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\bin\Debug\OrderServiceWinForm.exe
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\bin\Debug\OrderServiceWinForm.pdb
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.csprojAssemblyReference.cache
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.Form1.resources
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.Properties.Resources.resources
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.csproj.GenerateResource.cache
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.csproj.CoreCompileInputs.cache
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.exe
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.pdb
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.EditForm.resources
+D:\c#HW\Week6\OrderServiceWinForm\OrderServiceWinForm\obj\Debug\OrderServiceWinForm.AddForm.resources
